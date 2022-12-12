@@ -10,6 +10,10 @@
 
     <ItemGroup>
         <PackageReference Include="GraphQL" Version="7.2.1" />
+        <PackageReference Include="GraphQL.MemoryCache" Version="7.2.1" />
+        <PackageReference Include="GraphQL.MicrosoftDI" Version="7.2.1" />
+        <PackageReference Include="GraphQL.Server.Transports.AspNetCore" Version="7.1.1" />
+        <PackageReference Include="GraphQL.Server.Ui.Altair" Version="7.1.1" />
         <PackageReference Include="GraphQL.SystemTextJson" Version="7.2.1" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
     </ItemGroup>
